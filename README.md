@@ -1,4 +1,4 @@
-### Hi there 👋
+### Faala, Kauan aqui!
 
 <!--
 **KauanCavalcanti/KauanCavalcanti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
