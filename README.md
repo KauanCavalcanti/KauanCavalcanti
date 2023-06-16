@@ -1,8 +1,9 @@
 ### Faala, Kauan aqui!
 
 <div>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=KauanCavalcanti&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanCavalcanti&layout=compact&langs_count=16&theme=github_dark"/>
+  
+  <img  height="170em" src="https://github-readme-stats.vercel.app/api?username=KauanCavalcanti&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img align="right" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanCavalcanti&layout=compact&langs_count=16&theme=github_dark"/>
 </div>
 <br>
 
