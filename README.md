@@ -1,4 +1,4 @@
-### Faala, Kauan aqui!
+### Olá! Eu sou o Kauan
 
 <div>
   
